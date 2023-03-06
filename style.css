@@ -1,0 +1,30 @@
+.img {
+  display: block;
+  width:240px;
+  height:150px;
+}
+.container{
+    border: 1px;
+    margin: 100px;
+    text-align: center;
+    margin-top: 40px;
+	font-family: Monotype Corsiva;
+    font-size: 18pt;
+    
+}
+.place{
+margin-left:2%;
+
+}
+.round{
+	border-radius:10pt;
+}
+.copy{
+	background-color:rgb(0, 0, 153);
+    text-align:center;
+	font-size:15pt;
+}
+.content{
+	border:1px solid black;
+	padding-bottom:180px;
+}
